@@ -82,7 +82,7 @@ class App extends Component {
         <Container>
             <br/>
             <Message info>
-                <Message.Header>黑马程序员区块链彩票项目</Message.Header>
+                <Message.Header>区块链彩票</Message.Header>
                 <p>快来买呀,越买越发财?</p>
             </Message>
             <Card>
